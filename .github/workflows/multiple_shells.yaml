@@ -34,4 +34,5 @@ jobs:
           echo "GITHUB_EVENT_NAME: ${GITHUB_EVENT_NAME}"
           echo "GITHUB_WORKSPACE: ${GITHUB_WORKSPACE}"
           echo "ayouuuuuuuuuuhhhhhhhhh"
+          echo "go go go "
         shell: bash
